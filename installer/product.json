@@ -1,0 +1,8 @@
+{
+  "brand": "SoftRyva",
+  "product": "ImageFlow",
+  "tagline": "Smart Image Optimizer & Converter",
+  "icon": "../assets/icon.png",
+  "primary": "#0A91FA",
+  "accent": "#FF992B"
+}

@@ -1,0 +1,35 @@
+# Python environments, caches and tests
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+*.egg-info/
+# Generated builds and bundled outputs
+build/
+dist/
+dist_setup/
+*.spec
+installer/branding/
+# Local image samples and private run-time data
+Pictures/
+ImageFlow/Output/
+*.tmp
+# Credentials and signing keys: never push these
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.pfx
+*.key
+*secret*.asc
+*private*.asc
+*.gpg
+*.kbx
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
